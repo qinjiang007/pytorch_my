@@ -10,3 +10,8 @@ change my name to Muller
 the second time: I change my profile 
 
 I have to change the 3rd
+
+this time: I change two times and commmit then together
+the first
+
+the second
